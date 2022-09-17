@@ -5,7 +5,7 @@ def start(update, context):
 
 if __name__ == '__main__':
 
-    updater = Updater(token='5640405970:AAF8FW2M6H3dsyI1KB-YG0Z2nDIFwnI3amE',use_context=True)
+    updater = Updater(token='YOUR_API',use_context=True)
     
     dp = updater.dispatcher
     
